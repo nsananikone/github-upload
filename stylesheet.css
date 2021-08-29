@@ -32,6 +32,10 @@ ul a {
     margin: 0 15px;
 }
 
+nav .links {
+    padding-left: 0;
+}
+
 .about-us {
     display: flex;
     flex-direction: column;
